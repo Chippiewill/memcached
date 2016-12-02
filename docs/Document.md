@@ -124,7 +124,7 @@ The following dump shows the encoding of:
  * `_sync` with the value of `{"cas":"deadbeefcafefeed"}`
  * `meta` with the value of `{"author":"Trond Norbye","content-type":"application/octet-stream"}"`
  
- m
+ 
  
       Byte/     0       |       1       |       2       |       3       |
          /              |               |               |               |
