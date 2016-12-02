@@ -125,7 +125,6 @@ The following dump shows the encoding of:
  * `meta` with the value of `{"author":"Trond Norbye","content-type":"application/octet-stream"}"`
 
 ```
-```
   Byte/     0       |       1       |       2       |       3       |
      /              |               |               |               |
     |0 1 2 3 4 5 6 7|0 1 2 3 4 5 6 7|0 1 2 3 4 5 6 7|0 1 2 3 4 5 6 7|
@@ -190,7 +189,6 @@ The following dump shows the encoding of:
     +---------------+---------------+---------------+---------------+
  116| 0x7d ('}')    | 0x00          |
     +---------------+---------------+
-```
 ```
 
 mmm
